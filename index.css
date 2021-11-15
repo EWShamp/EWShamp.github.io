@@ -99,7 +99,7 @@ body {
         width: 100%;
         height: 2000px;
         grid-template-columns: repeat(3 , 1fr);
-        grid-template-rows: 10rem 33.5rem repeat(3 , 1fr);
+        grid-template-rows: 160px 536px repeat(3 , 1fr);
     }
 
     .header {
